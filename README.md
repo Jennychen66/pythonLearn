@@ -10,4 +10,5 @@ Python learned record
 2. how to copy files from one linux machine to another : using scp command https://www.garron.me/en/articles/scp.html 
 3. How to change the default version of python in liunx, from python2 to python3 https://www.youtube.com/watch?v=ymsoV07QA-Q 
    https://blog.csdn.net/fang_chuan/article/details/60958329
+   https://askubuntu.com/questions/850093/how-can-i-uninstall-python-2-7-and-reinstall-3-5-in-ubuntu-14-04
 4. Illegal instruction (core dumped) after running import tensorflow  https://github.com/tensorflow/tensorflow/issues/17411 
